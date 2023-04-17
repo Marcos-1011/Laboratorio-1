@@ -1,0 +1,11 @@
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Form1.resources
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.cache
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\marco\Documents\VisualStudio\TP1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
